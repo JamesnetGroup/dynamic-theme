@@ -35,3 +35,44 @@ In this comprehensive WPF tutorial, we delve into advanced project design techni
    - Advanced color animation techniques with Attached Properties
 
 This tutorial aims to enhance your ability to design and manage WPF resource systems efficiently. By learning to build robust and scalable application architectures, you'll establish a solid foundation for developing complex enterprise-level WPF frameworks.
+
+### Installation and Execution
+
+#### 1. Clone the repository:
+
+```
+git clone https://github.com/JamesnetGroup/cupertino-treeview.git
+```
+
+#### 2. Open the solution
+- [x] Visual Studio
+- [x] Visual Studio Code
+- [x] JetBrains Rider
+
+<img src="https://github.com/user-attachments/assets/af70f422-7057-4e77-a54d-042ee8358d2a" width="32%"/>
+<img src="https://github.com/user-attachments/assets/e4feaa10-a107-4b58-8d13-1d8be620ec62" width="32%"/>
+<img src="https://github.com/user-attachments/assets/5ff487f6-55e4-43e1-9abf-f8d419ee6943" width="32%"/>
+
+#### 3. Build and Run
+- [x] Set as startup project
+- [x] Press F5 or click the run button
+- [x] Windows 11 recommended
+
+## Learning Resources
+
+- [Detailed implementation article (jamesnet.dev)](https://jamesnet.dev/article)
+- [BiliBili Tutorial (Chinese)](https://www.bilibili.com/video/BV1FN41eHE7e)
+
+## Contributing
+
+Contributions to Dynamic Theme are welcome! Please feel free to submit issues, create pull requests, or suggest improvements.
+
+## License
+
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+- Website: https://jamesnet.dev
+- Email: vickyqu115@hotmail.com, james@jamesnet.dev
+

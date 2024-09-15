@@ -48,7 +48,7 @@
 #### 1. 克隆仓库：
 
 ```
-git clone https://github.com/vickyqu115/cupertino-treeview.git
+git clone https://github.com/JamesnetGroup/dynamic-theme.git
 ```
 
 #### 2. 打开解决方案

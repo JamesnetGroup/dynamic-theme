@@ -1,0 +1,45 @@
+﻿<Window x:Class="BlackPinkTheme.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1200">
+    <Grid Style="{StaticResource MainGridStyle}">
+        <StackPanel Style="{StaticResource MainStackStyle}">
+            <ToggleButton x:Name="Switch"/>
+            <TextBlock Style="{StaticResource VickyTextStyle}"/>
+            <Border Style="{StaticResource VerticalLineStyle}"/>
+            <TextBlock Style="{StaticResource HttpsTextStyle}"/>
+            <WrapPanel Style="{StaticResource MainWrapStyle}">
+                <StackPanel Style="{StaticResource CheckStackStyle}">
+                    <CheckBox IsChecked="True" Content="WPF"/>
+                    <CheckBox IsChecked="True" Content="Xamarin"/>
+                    <CheckBox IsChecked="True" Content="UWP"/>
+                    <CheckBox IsChecked="True" Content="WinUI 3"/>
+                    <CheckBox IsChecked="False" Content="MAUI"/>
+                    <CheckBox IsChecked="False" Content="Uno-Platform"/>
+                    <CheckBox IsChecked="False" Content="AvaloniaUI"/>
+                    <CheckBox IsChecked="False" Content="OpenSilver"/>
+                </StackPanel>
+                <StackPanel Style="{StaticResource SliderStackStyle}">
+                    <Slider Value="27"/>
+                    <Slider Value="15"/>
+                    <Slider Value="79"/>
+                    <Slider Value="68"/>
+                    <Slider Value="39"/>
+                </StackPanel>
+                <ListBox>
+                    <ListBoxItem>Vicky</ListBoxItem>
+                    <ListBoxItem>James</ListBoxItem>
+                    <ListBoxItem>Nanjing</ListBoxItem>
+                    <ListBoxItem>Seoul</ListBoxItem>
+                    <ListBoxItem>Bilibili</ListBoxItem>
+                    <ListBoxItem>Youtube</ListBoxItem>
+                    <ListBoxItem>Chat GPT</ListBoxItem>
+                    <ListBoxItem>Claude</ListBoxItem>
+                </ListBox>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

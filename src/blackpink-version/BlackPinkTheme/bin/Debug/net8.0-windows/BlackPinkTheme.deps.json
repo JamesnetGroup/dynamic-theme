@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlackPinkTheme/1.0.0": {
+        "dependencies": {
+          "BlackPinkTheme.Core": "1.0.0",
+          "BlackPinkTheme.Resources": "1.0.0"
+        },
+        "runtime": {
+          "BlackPinkTheme.dll": {}
+        }
+      },
+      "BlackPinkTheme.Core/1.0.0": {
+        "runtime": {
+          "BlackPinkTheme.Core.dll": {}
+        }
+      },
+      "BlackPinkTheme.Resources/1.0.0": {
+        "runtime": {
+          "BlackPinkTheme.Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackPinkTheme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackPinkTheme.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackPinkTheme.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

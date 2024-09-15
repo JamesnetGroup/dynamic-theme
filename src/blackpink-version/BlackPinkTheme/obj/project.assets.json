@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "BlackPinkTheme.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BlackPinkTheme.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlackPinkTheme.Core.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "BlackPinkTheme.Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BlackPinkTheme.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlackPinkTheme.Resources.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "BlackPinkTheme.Core/1.0.0": {
+      "type": "project",
+      "path": "../BlackPinkTheme.Core/BlackPinkTheme.Core.csproj",
+      "msbuildProject": "../BlackPinkTheme.Core/BlackPinkTheme.Core.csproj"
+    },
+    "BlackPinkTheme.Resources/1.0.0": {
+      "type": "project",
+      "path": "../BlackPinkTheme.Resources/BlackPinkTheme.Resources.csproj",
+      "msbuildProject": "../BlackPinkTheme.Resources/BlackPinkTheme.Resources.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "BlackPinkTheme.Core >= 1.0.0",
+      "BlackPinkTheme.Resources >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vicky\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme\\BlackPinkTheme.csproj",
+      "projectName": "BlackPinkTheme",
+      "projectPath": "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme\\BlackPinkTheme.csproj",
+      "packagesPath": "C:\\Users\\vicky\\.nuget\\packages\\",
+      "outputPath": "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme.Core\\BlackPinkTheme.Core.csproj": {
+              "projectPath": "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme.Core\\BlackPinkTheme.Core.csproj"
+            },
+            "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme.Resources\\BlackPinkTheme.Resources.csproj": {
+              "projectPath": "C:\\vickyworks\\dynamic-theme\\src\\blackpink-version\\BlackPinkTheme.Resources\\BlackPinkTheme.Resources.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

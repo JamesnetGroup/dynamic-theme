@@ -41,7 +41,7 @@ This tutorial aims to enhance your ability to design and manage WPF resource sys
 #### 1. Clone the repository:
 
 ```
-git clone https://github.com/JamesnetGroup/cupertino-treeview.git
+git clone https://github.com/JamesnetGroup/dynamic-theme.git
 ```
 
 #### 2. Open the solution

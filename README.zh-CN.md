@@ -35,3 +35,45 @@
    - 利用Attached Property实现平滑颜色动画的高级技巧
 
 本教程旨在提升大家设计和管理WPF资源系统的能力。通过学习构建稳健和可扩展的应用程序架构，将为开发复杂的企业级WPF框架奠定坚实的技术基础。
+
+## 入门指南
+
+### 先决条件
+
+- Visual Studio 2022 或更高版本
+- .NET 8.0 SDK
+
+### 安装和执行
+
+#### 1. 克隆仓库：
+
+```
+git clone https://github.com/vickyqu115/cupertino-treeview.git
+```
+
+#### 2. 打开解决方案
+- [x] Visual Studio
+- [x] Visual Studio Code
+- [x] JetBrains Rider
+
+<img src="https://github.com/user-attachments/assets/af70f422-7057-4e77-a54d-042ee8358d2a" width="32%"/>
+<img src="https://github.com/user-attachments/assets/e4feaa10-a107-4b58-8d13-1d8be620ec62" width="32%"/>
+<img src="https://github.com/user-attachments/assets/5ff487f6-55e4-43e1-9abf-f8d419ee6943" width="32%"/>
+
+#### 3. 构建和运行
+- [x] 设置为启动项目
+- [x] 按F5或点击运行按钮
+- [x] 推荐使用Windows 11
+
+## 学习资源
+
+- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article)
+- [BiliBili 教程 (中文)](https://www.bilibili.com/video/BV1FN41eHE7e)
+
+## 贡献
+
+欢迎对Cupertino TreeView做出贡献！请随时提交问题、创建拉取请求或提出改进建议。
+
+## 许可证
+
+本项目基于MIT许可证分发。有关详细信息，请参阅[LICENSE](LICENSE)文件。

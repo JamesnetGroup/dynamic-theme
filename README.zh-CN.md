@@ -72,7 +72,7 @@ git clone https://github.com/JamesnetGroup/dynamic-theme.git
 
 ## 贡献
 
-欢迎对Cupertino TreeView做出贡献！请随时提交问题、创建拉取请求或提出改进建议。
+欢迎对Dynamic Theme做出贡献！请随时提交问题、创建拉取请求或提出改进建议。
 
 ## 许可证
 

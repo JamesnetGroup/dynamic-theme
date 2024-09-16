@@ -6,7 +6,10 @@
 [![Stars](https://img.shields.io/github/stars/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/stargazers)
 [![Issues](https://img.shields.io/github/issues/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/issues)
 
+使用WPF实现一个Black&Pink风格的动态主题切换机制。
+
 ## 项目概述
+DynamicTheme项目的程深入探讨了WPF实时主题切换的高级技术，涵盖资源管理、优化策略和动态主题实现，旨在提升开发者设计企业级WPF应用的能力。
 
 <img src="https://github.com/user-attachments/assets/25ca2412-2290-4e38-93bb-60df532938bb" width="100%"/>
 
@@ -67,7 +70,7 @@ git clone https://github.com/JamesnetGroup/dynamic-theme.git
 
 ## 学习资源
 
-- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article)
+- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article/159/English)
 - [BiliBili 教程 (中文)](https://www.bilibili.com/video/BV1FN41eHE7e)
 
 ## 贡献

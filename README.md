@@ -6,7 +6,11 @@
 [![Stars](https://img.shields.io/github/stars/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/stargazers)
 [![Issues](https://img.shields.io/github/issues/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/issues)
 
+Implementing a Black & Pink Style Dynamic Theme Switching Mechanism Using WPF.
+
 ## Project Overview
+
+The DynamicTheme project delves deep into advanced techniques for real-time theme switching in WPF, covering resource management, optimization strategies, and dynamic theme implementation. It aims to enhance developers' ability to design enterprise-level WPF applications.
 
 <img src="https://github.com/user-attachments/assets/25ca2412-2290-4e38-93bb-60df532938bb" width="100%"/>
 

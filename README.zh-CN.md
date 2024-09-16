@@ -70,7 +70,7 @@ git clone https://github.com/JamesnetGroup/dynamic-theme.git
 
 ## 学习资源
 
-- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article/159/English)
+- [详细实现文章 (jamesnet.dev)](https://jamesnet.dev/article/159/Chinese)
 - [BiliBili 教程 (中文)](https://www.bilibili.com/video/BV1FN41eHE7e)
 
 ## 贡献

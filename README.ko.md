@@ -6,7 +6,11 @@
 [![Stars](https://img.shields.io/github/stars/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/stargazers)
 [![Issues](https://img.shields.io/github/issues/vickyqu115/dynamictheme.svg)](https://github.com/vickyqu115/dynamictheme/issues)
 
+WPF를 사용하여 블랙&핑크 스타일의 동적 테마 전환 메커니즘 구현하기.
+
 ## 프로젝트 개요
+
+DynamicTheme 프로젝트는 WPF의 실시간 테마 전환에 관한 고급 기술을 심도 있게 다룹니다. 이 프로젝트는 리소스 관리, 최적화 전략 및 동적 테마 구현을 포함하며, 개발자들의 엔터프라이즈급 WPF 애플리케이션 설계 능력 향상을 목표로 합니다.
 
 <img src="https://github.com/user-attachments/assets/25ca2412-2290-4e38-93bb-60df532938bb" width="100%"/>
 
@@ -63,7 +67,7 @@ git clone https://github.com/JamesnetGroup/dynamic-theme.git
 - [x] Windows 11 권장
 
 ## 학습 자료
-- [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article)
+- [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/159/Korean)
 - [BiliBili 튜토리얼 (중국어)](https://www.bilibili.com/video/BV1FN41eHE7e/)
 
 ## 기여하기
